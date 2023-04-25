@@ -40,7 +40,7 @@ Here are some ideas to get you started:
  	<a href="https://www.twitch.tv/matapatoofficial" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" style="border-radius:10px;"></a>
  <a href="https://discord.gg/Mata%20Pato#7968" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" style="border-radius:10px;"></a> 
   <a href = "mailto:rruscher@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="border-radius:10px;"></a>
-  <a href="https://www.linkedin.com/in/rruscher" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="border-radius:10px;"></a> 
+  <a href="https://www.linkedin.com/in/rafaelruscher/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="border-radius:10px;"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
