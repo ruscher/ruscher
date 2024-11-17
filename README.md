@@ -12,6 +12,14 @@
 
 ###
 
+<img align="right" height="150" src="https://camo.githubusercontent.com/45fa4f90dab62dbc9aabb697a6e31a542d094dae48878580eeb3c5e166d8c7cc/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313332383032343836333334393539363136332f7a6a7979695872775f343030783430302e6a7067"  />
+
+###
+
+<p align="left">Rafael Ruscher é desenvolvedor full stack, formado em análise de sistemas e especialista em desenvolvimento, análise de dados e segurança da informação. Com experiência significativa na criação de soluções tecnológicas inovadoras e seguras, destaca-se por sua atuação como voluntário no projeto BigLinux por quatro anos, fortalecendo habilidades técnicas e compromisso com o software livre. Além disso, é criador e administrador dos canais no YouTube "Rafael Ruscher e o Bate Papo Nerd" e "BigLinux", onde compartilha conteúdos sobre tecnologia, segurança digital e software livre.</p>
+
+###
+
   <a href="https://open.spotify.com/user/12143016187">
     <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=12143016187&count=1&unique=false" alt="Spotify recently played"  />
   </a>
@@ -90,15 +98,6 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://camo.githubusercontent.com/45fa4f90dab62dbc9aabb697a6e31a542d094dae48878580eeb3c5e166d8c7cc/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313332383032343836333334393539363136332f7a6a7979695872775f343030783430302e6a7067"  />
-
-###
-
-<p align="left">Rafael Ruscher é desenvolvedor full stack, formado em análise de sistemas e especialista em desenvolvimento, análise de dados e segurança da informação. Com experiência significativa na criação de soluções tecnológicas inovadoras e seguras, destaca-se por sua atuação como voluntário no projeto BigLinux por quatro anos, fortalecendo habilidades técnicas e compromisso com o software livre. Além disso, é criador e administrador dos canais no YouTube "Rafael Ruscher e o Bate Papo Nerd" e "BigLinux", onde compartilha conteúdos sobre tecnologia, segurança digital e software livre.</p>
-
 
 ###
 
