@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/45fa4f90dab62dbc9aabb697a6e31a542d094dae48878580eeb3c5e166d8c7cc/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313332383032343836333334393539363136332f7a6a7979695872775f343030783430302e6a7067"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/355281?v=4"  />
 
 ###
 
