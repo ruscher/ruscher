@@ -12,6 +12,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <img align="right" height="150" src="https://camo.githubusercontent.com/45fa4f90dab62dbc9aabb697a6e31a542d094dae48878580eeb3c5e166d8c7cc/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313332383032343836333334393539363136332f7a6a7979695872775f343030783430302e6a7067"  />
 
 ###
