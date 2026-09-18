@@ -22,7 +22,19 @@
 
 ###
 
-<p align="left">Rafael Ruscher é desenvolvedor full stack, formado em análise de sistemas e especialista em desenvolvimento, análise de dados e segurança da informação. Com experiência significativa na criação de soluções tecnológicas inovadoras e seguras, destaca-se por sua atuação como voluntário no projeto BigLinux por quatro anos, fortalecendo habilidades técnicas e compromisso com o software livre. Além disso, é criador e administrador dos canais no YouTube "Rafael Ruscher e o Bate Papo Nerd" e "BigLinux", onde compartilha conteúdos sobre tecnologia, segurança digital e software livre.</p>
+<p align="left">Rafael Ruscher é desenvolvedor full stack, formado em análise de sistemas e especialista em desenvolvimento, análise de dados e segurança da informação. Com experiência significativa na criação de soluções tecnológicas inovadoras e seguras, destaca-se por sua atuação como voluntário no projeto BigLinux desde janeiro de 2002, fortalecendo habilidades técnicas e compromisso com o software livre. Além disso, é criador e administrador dos canais no YouTube "Rafael Ruscher e o Bate Papo Nerd" e "BigLinux", onde compartilha conteúdos sobre tecnologia, segurança digital e software livre.</p>
+
+
+<p align="left">Rafael Ruscher é desenvolvedor Full Stack, formado em Análise de Sistemas e especialista em desenvolvimento de software, análise de dados e segurança da informação. Atua na criação de soluções tecnológicas modernas, seguras e eficientes, unindo desenvolvimento, experiência do usuário, inovação e boas práticas de segurança.</p>
+
+<p align="left">É colaborador voluntário do projeto BigLinux, uma das distribuições Linux brasileiras de maior destaque, onde participa do desenvolvimento e aprimoramento de aplicações, interfaces, recursos de UX/UI, ferramentas para o sistema e iniciativas voltadas à comunidade de Software Livre.</p>
+
+<p align="left">Sua atuação também envolve projetos de código aberto, desenvolvimento para Linux, automação, inteligência artificial, aplicações web e pesquisa de novas tecnologias, sempre com foco em criar soluções acessíveis, funcionais e amigáveis para diferentes perfis de usuários.</p>
+
+<p align="left">Além do trabalho como desenvolvedor, Rafael também atua na produção e divulgação de conteúdo sobre tecnologia no YouTube, participando da criação de materiais relacionados a Linux, Software Livre, desenvolvimento, inteligência artificial, segurança digital, hardware, jogos e novas tecnologias.</p>
+
+<p align="left">Entusiasta do conhecimento aberto e da colaboração comunitária, acredita que a tecnologia deve ser acessível, útil e capaz de transformar a experiência das pessoas, contribuindo ativamente para o fortalecimento do ecossistema brasileiro de Software Livre.</p>
+
 
 ###
 
