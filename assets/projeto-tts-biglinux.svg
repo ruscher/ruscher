@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 200" width="490" height="200" role="img" aria-labelledby="t">
+<title id="t">BigLinux TTS: Selecione um texto, aperte Alt+V e ouça. Síntese de voz nativa no desktop Linux.</title>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  <radialGradient id="glow" cx="1" cy="0" r="1"><stop offset="0" stop-color="#34d399" stop-opacity=".28"/><stop offset=".6" stop-color="#34d399" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+  .sans{font-family:'Inter','Segoe UI','Noto Sans',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+  .card{animation:in .8s cubic-bezier(.2,.8,.2,1) 0.12s both}
+  @keyframes in{from{opacity:0;transform:translateY(10px)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g class="card">
+  <rect x=".5" y=".5" width="489" height="199" rx="22" fill="#0f1733"/>
+  <rect x=".5" y=".5" width="489" height="199" rx="22" fill="url(#glow)"/>
+  <rect x=".5" y=".5" width="489" height="199" rx="22" fill="none" stroke="#c7d2fe" stroke-opacity=".13"/>
+  <rect x="28" y="26" width="52" height="52" rx="15" fill="url(#g)"/>
+  <g transform="translate(54 52)" fill="none" stroke="#fff" stroke-width="2.6"><path d="M-16 -6h6l8 -7v26l-8 -7h-6z" stroke-linejoin="round"/><path d="M6 -7a10 10 0 0 1 0 14M11 -12a17 17 0 0 1 0 24" stroke-linecap="round"/></g>
+  <text x="96" y="60" class="sans" font-size="22" font-weight="700" fill="#eef2ff">BigLinux TTS</text>
+  <g transform="translate(446 38)" fill="none" stroke="#a3aed0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M-6 6L6 -6M-3 -6h9v9"/></g>
+  <text y="108" class="sans" font-size="16" fill="#a3aed0"><tspan x="28" dy="0">Selecione um texto, aperte Alt+V e ouça.</tspan><tspan x="28" dy="22">Síntese de voz nativa no desktop Linux.</tspan></text>
+  <rect x="28" y="150" width="46" height="26" rx="13" fill="#c7d2fe" fill-opacity="0.07"/><text x="50.8" y="167.5" text-anchor="middle" class="sans" font-size="12.5" font-weight="600" fill="#a3aed0">Rust</text><rect x="81.6" y="150" width="46" height="26" rx="13" fill="#c7d2fe" fill-opacity="0.07"/><text x="104.4" y="167.5" text-anchor="middle" class="sans" font-size="12.5" font-weight="600" fill="#a3aed0">GTK4</text><rect x="135.2" y="150" width="60" height="26" rx="13" fill="#34d399" fill-opacity="0.16"/><text x="165.4" y="167.5" text-anchor="middle" class="sans" font-size="12.5" font-weight="600" fill="#eef2ff">52 PRs</text>
+</g>
+</svg>

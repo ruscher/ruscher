@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 161" width="1000" height="161" role="img" aria-labelledby="t">
+<title id="t">537 PRs aceitos no BigLinux desde 2022; 2.154 contribuições no GitHub em 12 meses; código em 47 repositórios do BigLinux; 16 anos de GitHub.</title>
+<style>
+  .sans{font-family:'Inter','Segoe UI','Noto Sans',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+  .tile{animation:in .8s cubic-bezier(.2,.8,.2,1) both}
+  @keyframes in{from{opacity:0;transform:translateY(12px)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+  <g class="tile" style="animation-delay:0.00s">
+    <rect x="0.5" y=".5" width="231" height="159" rx="20" fill="#0f1733" stroke="#c7d2fe" stroke-opacity=".12"/>
+    <rect x="24" y="24" width="36" height="4" rx="2" fill="#22d3ee"/>
+    <text x="24" y="88" class="sans" font-size="46" font-weight="800" letter-spacing="-1" fill="#eef2ff">537</text>
+    <text x="24" y="118" class="sans" font-size="15" font-weight="600" fill="#eef2ff">PRs aceitos no BigLinux</text>
+    <text x="24" y="140" class="sans" font-size="13" fill="#a3aed0">desde abril de 2022</text>
+  </g>
+  <g class="tile" style="animation-delay:0.12s">
+    <rect x="256.5" y=".5" width="231" height="159" rx="20" fill="#0f1733" stroke="#c7d2fe" stroke-opacity=".12"/>
+    <rect x="280" y="24" width="36" height="4" rx="2" fill="#8b5cf6"/>
+    <text x="280" y="88" class="sans" font-size="46" font-weight="800" letter-spacing="-1" fill="#eef2ff">2.154</text>
+    <text x="280" y="118" class="sans" font-size="15" font-weight="600" fill="#eef2ff">contribuições no GitHub</text>
+    <text x="280" y="140" class="sans" font-size="13" fill="#a3aed0">nos últimos 12 meses</text>
+  </g>
+  <g class="tile" style="animation-delay:0.24s">
+    <rect x="512.5" y=".5" width="231" height="159" rx="20" fill="#0f1733" stroke="#c7d2fe" stroke-opacity=".12"/>
+    <rect x="536" y="24" width="36" height="4" rx="2" fill="#ec4899"/>
+    <text x="536" y="88" class="sans" font-size="46" font-weight="800" letter-spacing="-1" fill="#eef2ff">47</text>
+    <text x="536" y="118" class="sans" font-size="15" font-weight="600" fill="#eef2ff">repositórios do BigLinux</text>
+    <text x="536" y="140" class="sans" font-size="13" fill="#a3aed0">com código meu</text>
+  </g>
+  <g class="tile" style="animation-delay:0.36s">
+    <rect x="768.5" y=".5" width="231" height="159" rx="20" fill="#0f1733" stroke="#c7d2fe" stroke-opacity=".12"/>
+    <rect x="792" y="24" width="36" height="4" rx="2" fill="#f59e0b"/>
+    <text x="792" y="88" class="sans" font-size="46" font-weight="800" letter-spacing="-1" fill="#eef2ff">16</text>
+    <text x="792" y="118" class="sans" font-size="15" font-weight="600" fill="#eef2ff">anos de GitHub</text>
+    <text x="792" y="140" class="sans" font-size="13" fill="#a3aed0">desde agosto de 2010</text>
+  </g>
+</svg>

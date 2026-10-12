@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 180" width="490" height="180" role="img" aria-labelledby="t">
+<title id="t">DeviantArt: Galeria de design. Logos, wallpapers, arte 3D e vetorial. 35 obras · desde 2002 · Design for all</title>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#008a3a"/></linearGradient>
+  <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#008a3a" stop-opacity="0"/></linearGradient>
+  <filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+  <clipPath id="c"><rect width="490" height="180" rx="22"/></clipPath>
+</defs>
+<style>
+  .sans{font-family:'Inter','Segoe UI','Noto Sans',Ubuntu,'Helvetica Neue',Arial,sans-serif} .mono{font-family:'JetBrains Mono','Fira Code','Cascadia Code','DejaVu Sans Mono',ui-monospace,monospace}
+  .orb{animation:orb 12s ease-in-out infinite alternate}
+  @keyframes orb{to{transform:translate(-120px,30px)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#c)">
+  <rect width="490" height="180" fill="#0f1733"/>
+  <circle class="orb" cx="440" cy="20" r="90" fill="url(#g)" opacity=".45" filter="url(#b)"/>
+  <rect width="490" height="3" fill="url(#edge)"/>
+</g>
+<rect x=".5" y=".5" width="489" height="179" rx="22" fill="none" stroke="#c7d2fe" stroke-opacity=".13"/>
+<rect x="28" y="30" width="70" height="70" rx="20" fill="url(#g)"/>
+<path transform="translate(45 47) scale(1.5)" fill="#fff" d="M19.207 4.794l.23-.43V0H15.07l-.436.44-2.058 3.925-.646.436H4.58v5.993h4.04l.36.436-4.175 7.98-.24.43V24H8.93l.436-.44 2.07-3.925.644-.436h7.35v-5.993h-4.05l-.36-.438 4.186-7.977z"/>
+<text x="120" y="50" class="sans" font-size="13" font-weight="700" letter-spacing="1.5" fill="#34d399">DEVIANTART</text>
+<text x="120" y="78" class="sans" font-size="22" font-weight="700" fill="#eef2ff">Galeria de design</text>
+<text y="108" class="sans" font-size="14.5" fill="#a3aed0"><tspan x="120" dy="0">Logos, wallpapers, arte 3D e vetorial.</tspan><tspan x="120" dy="22">35 obras · desde 2002 · Design for all</tspan></text>
+<text x="28" y="156" class="mono" font-size="13" fill="#6b7699">↗ deviantart.com/actionman</text>
+</svg>

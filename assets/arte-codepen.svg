@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 180" width="490" height="180" role="img" aria-labelledby="t">
+<title id="t">CodePen: Laboratório de interfaces. Experimentos de UI, animações em CSS e protótipos de front-end.</title>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></linearGradient>
+  <filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+  <clipPath id="c"><rect width="490" height="180" rx="22"/></clipPath>
+</defs>
+<style>
+  .sans{font-family:'Inter','Segoe UI','Noto Sans',Ubuntu,'Helvetica Neue',Arial,sans-serif} .mono{font-family:'JetBrains Mono','Fira Code','Cascadia Code','DejaVu Sans Mono',ui-monospace,monospace}
+  .orb{animation:orb 12s ease-in-out infinite alternate}
+  @keyframes orb{to{transform:translate(-120px,30px)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#c)">
+  <rect width="490" height="180" fill="#0f1733"/>
+  <circle class="orb" cx="440" cy="20" r="90" fill="url(#g)" opacity=".45" filter="url(#b)"/>
+  <rect width="490" height="3" fill="url(#edge)"/>
+</g>
+<rect x=".5" y=".5" width="489" height="179" rx="22" fill="none" stroke="#c7d2fe" stroke-opacity=".13"/>
+<rect x="28" y="30" width="70" height="70" rx="20" fill="url(#g)"/>
+<path transform="translate(45 47) scale(1.5)" fill="#fff" d="M18.144 13.067v-2.134L16.55 12zm1.276 1.194a.628.628 0 01-.006.083l-.005.028-.011.053-.01.031c-.005.016-.01.031-.017.047l-.014.03a.78.78 0 01-.021.043l-.019.03a.57.57 0 01-.08.1l-.026.025a.602.602 0 01-.036.03l-.029.022-.01.008-6.782 4.522a.637.637 0 01-.708 0L4.864 14.79l-.01-.008a.599.599 0 01-.065-.052l-.026-.025-.032-.034-.021-.028a.588.588 0 01-.067-.11l-.014-.031a.644.644 0 01-.017-.047l-.01-.03c-.004-.018-.008-.036-.01-.054l-.006-.028a.628.628 0 01-.006-.083V9.739c0-.028.002-.055.006-.083l.005-.027.011-.054.01-.03a.574.574 0 01.12-.217l.031-.034.026-.025a.62.62 0 01.065-.052l.01-.008 6.782-4.521a.638.638 0 01.708 0l6.782 4.521.01.008.03.022.035.03c.01.008.017.016.026.025a.545.545 0 01.08.1l.019.03a.633.633 0 01.021.043l.014.03c.007.016.012.032.017.047l.01.031c.004.018.008.036.01.054l.006.027a.619.619 0 01.006.083zM12 0C5.373 0 0 5.372 0 12 0 18.627 5.373 24 12 24c6.628 0 12-5.372 12-12 0-6.627-5.372-12-12-12m0 10.492L9.745 12 12 13.51 14.255 12zm.638 4.124v2.975l4.996-3.33-2.232-1.493zm-6.272-.356l4.996 3.33v-2.974l-2.764-1.849zm11.268-4.52l-4.996-3.33v2.974l2.764 1.85zm-6.272-.356V6.41L6.366 9.74l2.232 1.493zm-5.506 1.549v2.134L7.45 12Z"/>
+<text x="120" y="50" class="sans" font-size="13" font-weight="700" letter-spacing="1.5" fill="#22d3ee">CODEPEN</text>
+<text x="120" y="78" class="sans" font-size="22" font-weight="700" fill="#eef2ff">Laboratório de interfaces</text>
+<text y="108" class="sans" font-size="14.5" fill="#a3aed0"><tspan x="120" dy="0">Experimentos de UI, animações em CSS</tspan><tspan x="120" dy="22">e protótipos de front-end.</tspan></text>
+<text x="28" y="156" class="mono" font-size="13" fill="#6b7699">↗ codepen.io/ruscher</text>
+</svg>

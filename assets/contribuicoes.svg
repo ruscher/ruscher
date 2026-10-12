@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 450" width="1000" height="450" role="img" aria-labelledby="t">
+<title id="t">Pull requests aceitos por repositório do BigLinux: biglinux-icons-material 77, bigcontrolcenter 55, tts-biglinux 52, calamares-biglinux 39, bigcam 36, biglinux-calamares-wmaker 33, big-remote-play 28, biglinux-settings 19, biglinux-session-and-themes 19, grub-btrfs-timeshift 17.</title>
+<defs><linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<style>
+  .sans{font-family:'Inter','Segoe UI','Noto Sans',Ubuntu,'Helvetica Neue',Arial,sans-serif} .mono{font-family:'JetBrains Mono','Fira Code','Cascadia Code','DejaVu Sans Mono',ui-monospace,monospace;font-size:13.5px}
+  .bar{transform-box:fill-box;transform-origin:left;animation:grow 1s cubic-bezier(.2,.8,.2,1) both}
+  @keyframes grow{from{transform:scaleX(0)}}
+  .val{animation:fade .5s ease both} @keyframes fade{from{opacity:0}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="999" height="449" rx="22" fill="#0f1733" stroke="#c7d2fe" stroke-opacity=".12"/>
+<text x="32" y="42" class="sans" font-size="17" font-weight="700" fill="#eef2ff">Pull requests aceitos por repositório</text>
+<text x="968" y="42" text-anchor="end" class="sans" font-size="13" fill="#a3aed0">top 10 de 47 · github.com/biglinux</text>
+
+  <text x="274" y="87" text-anchor="end" class="mono" fill="#a3aed0">biglinux-icons-material</text>
+  <rect x="290" y="72" width="620" height="22" rx="4" fill="#c7d2fe" fill-opacity=".05"/>
+  <rect class="bar" style="animation-delay:0.00s" x="290" y="72" width="620.0" height="22" rx="4" fill="url(#bar)"><title>biglinux-icons-material: 77 PRs aceitos</title></rect>
+  <text class="val sans" style="animation-delay:0.50s" x="920.0" y="88" font-size="14" font-weight="700" fill="#eef2ff">77</text>
+  <text x="274" y="121" text-anchor="end" class="mono" fill="#a3aed0">bigcontrolcenter</text>
+  <rect x="290" y="106" width="620" height="22" rx="4" fill="#c7d2fe" fill-opacity=".05"/>
+  <rect class="bar" style="animation-delay:0.07s" x="290" y="106" width="442.9" height="22" rx="4" fill="url(#bar)"><title>bigcontrolcenter: 55 PRs aceitos</title></rect>
+  <text class="val sans" style="animation-delay:0.57s" x="742.9" y="122" font-size="14" font-weight="700" fill="#eef2ff">55</text>
+  <text x="274" y="155" text-anchor="end" class="mono" fill="#a3aed0">tts-biglinux</text>
+  <rect x="290" y="140" width="620" height="22" rx="4" fill="#c7d2fe" fill-opacity=".05"/>
+  <rect class="bar" style="animation-delay:0.14s" x="290" y="140" width="418.7" height="22" rx="4" fill="url(#bar)"><title>tts-biglinux: 52 PRs aceitos</title></rect>
+  <text class="val sans" style="animation-delay:0.64s" x="718.7" y="156" font-size="14" font-weight="700" fill="#eef2ff">52</text>
+  <text x="274" y="189" text-anchor="end" class="mono" fill="#a3aed0">calamares-biglinux</text>
+  <rect x="290" y="174" width="620" height="22" rx="4" fill="#c7d2fe" fill-opacity=".05"/>
+  <rect class="bar" style="animation-delay:0.21s" x="290" y="174" width="314.0" height="22" rx="4" fill="url(#bar)"><title>calamares-biglinux: 39 PRs aceitos</title></rect>
+  <text class="val sans" style="animation-delay:0.71s" x="614.0" y="190" font-size="14" font-weight="700" fill="#eef2ff">39</text>
+  <text x="274" y="223" text-anchor="end" class="mono" fill="#a3aed0">bigcam</text>
+  <rect x="290" y="208" width="620" height="22" rx="4" fill="#c7d2fe" fill-opacity=".05"/>
+  <rect class="bar" style="animation-delay:0.28s" x="290" y="208" width="289.9" height="22" rx="4" fill="url(#bar)"><title>bigcam: 36 PRs aceitos</title></rect>
+  <text class="val sans" style="animation-delay:0.78s" x="589.9" y="224" font-size="14" font-weight="700" fill="#eef2ff">36</text>
+  <text x="274" y="257" text-anchor="end" class="mono" fill="#a3aed0">biglinux-calamares-wmaker</text>
+  <rect x="290" y="242" width="620" height="22" rx="4" fill="#c7d2fe" fill-opacity=".05"/>
+  <rect class="bar" style="animation-delay:0.35s" x="290" y="242" width="265.7" height="22" rx="4" fill="url(#bar)"><title>biglinux-calamares-wmaker: 33 PRs aceitos</title></rect>
+  <text class="val sans" style="animation-delay:0.85s" x="565.7" y="258" font-size="14" font-weight="700" fill="#eef2ff">33</text>
+  <text x="274" y="291" text-anchor="end" class="mono" fill="#a3aed0">big-remote-play</text>
+  <rect x="290" y="276" width="620" height="22" rx="4" fill="#c7d2fe" fill-opacity=".05"/>
+  <rect class="bar" style="animation-delay:0.42s" x="290" y="276" width="225.5" height="22" rx="4" fill="url(#bar)"><title>big-remote-play: 28 PRs aceitos</title></rect>
+  <text class="val sans" style="animation-delay:0.92s" x="525.5" y="292" font-size="14" font-weight="700" fill="#eef2ff">28</text>
+  <text x="274" y="325" text-anchor="end" class="mono" fill="#a3aed0">biglinux-settings</text>
+  <rect x="290" y="310" width="620" height="22" rx="4" fill="#c7d2fe" fill-opacity=".05"/>
+  <rect class="bar" style="animation-delay:0.49s" x="290" y="310" width="153.0" height="22" rx="4" fill="url(#bar)"><title>biglinux-settings: 19 PRs aceitos</title></rect>
+  <text class="val sans" style="animation-delay:0.99s" x="453.0" y="326" font-size="14" font-weight="700" fill="#eef2ff">19</text>
+  <text x="274" y="359" text-anchor="end" class="mono" fill="#a3aed0">biglinux-session-and-themes</text>
+  <rect x="290" y="344" width="620" height="22" rx="4" fill="#c7d2fe" fill-opacity=".05"/>
+  <rect class="bar" style="animation-delay:0.56s" x="290" y="344" width="153.0" height="22" rx="4" fill="url(#bar)"><title>biglinux-session-and-themes: 19 PRs aceitos</title></rect>
+  <text class="val sans" style="animation-delay:1.06s" x="453.0" y="360" font-size="14" font-weight="700" fill="#eef2ff">19</text>
+  <text x="274" y="393" text-anchor="end" class="mono" fill="#a3aed0">grub-btrfs-timeshift</text>
+  <rect x="290" y="378" width="620" height="22" rx="4" fill="#c7d2fe" fill-opacity=".05"/>
+  <rect class="bar" style="animation-delay:0.63s" x="290" y="378" width="136.9" height="22" rx="4" fill="url(#bar)"><title>grub-btrfs-timeshift: 17 PRs aceitos</title></rect>
+  <text class="val sans" style="animation-delay:1.13s" x="436.9" y="394" font-size="14" font-weight="700" fill="#eef2ff">17</text>
+</svg>

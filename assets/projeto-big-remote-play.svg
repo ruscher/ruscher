@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 200" width="490" height="200" role="img" aria-labelledby="t">
+<title id="t">Big Remote Play: Jogue com amigos à distância: Sunshine, Moonlight e rede privada num app só.</title>
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
+  <radialGradient id="glow" cx="1" cy="0" r="1"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".28"/><stop offset=".6" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+  .sans{font-family:'Inter','Segoe UI','Noto Sans',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+  .card{animation:in .8s cubic-bezier(.2,.8,.2,1) 0.12s both}
+  @keyframes in{from{opacity:0;transform:translateY(10px)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g class="card">
+  <rect x=".5" y=".5" width="489" height="199" rx="22" fill="#0f1733"/>
+  <rect x=".5" y=".5" width="489" height="199" rx="22" fill="url(#glow)"/>
+  <rect x=".5" y=".5" width="489" height="199" rx="22" fill="none" stroke="#c7d2fe" stroke-opacity=".13"/>
+  <rect x="28" y="26" width="52" height="52" rx="15" fill="url(#g)"/>
+  <g transform="translate(54 52)" fill="none" stroke="#fff" stroke-width="2.6"><rect x="-19" y="-11" width="38" height="22" rx="11"/><path d="M-10 -4v8M-14 0h8" stroke-linecap="round"/><circle cx="8" cy="-2" r="1.6" fill="#fff"/><circle cx="12" cy="3" r="1.6" fill="#fff"/></g>
+  <text x="96" y="60" class="sans" font-size="22" font-weight="700" fill="#eef2ff">Big Remote Play</text>
+  <g transform="translate(446 38)" fill="none" stroke="#a3aed0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M-6 6L6 -6M-3 -6h9v9"/></g>
+  <text y="108" class="sans" font-size="16" fill="#a3aed0"><tspan x="28" dy="0">Jogue com amigos à distância: Sunshine,</tspan><tspan x="28" dy="22">Moonlight e rede privada num app só.</tspan></text>
+  <rect x="28" y="150" width="60" height="26" rx="13" fill="#c7d2fe" fill-opacity="0.07"/><text x="58.2" y="167.5" text-anchor="middle" class="sans" font-size="12.5" font-weight="600" fill="#a3aed0">Python</text><rect x="96.4" y="150" width="46" height="26" rx="13" fill="#c7d2fe" fill-opacity="0.07"/><text x="119.2" y="167.5" text-anchor="middle" class="sans" font-size="12.5" font-weight="600" fill="#a3aed0">GTK4</text><rect x="150.0" y="150" width="60" height="26" rx="13" fill="#8b5cf6" fill-opacity="0.16"/><text x="180.2" y="167.5" text-anchor="middle" class="sans" font-size="12.5" font-weight="600" fill="#eef2ff">28 PRs</text><rect x="218.4" y="150" width="38" height="26" rx="13" fill="#c7d2fe" fill-opacity="0.07"/><text x="237.5" y="167.5" text-anchor="middle" class="sans" font-size="12.5" font-weight="600" fill="#a3aed0">6 ★</text>
+</g>
+</svg>

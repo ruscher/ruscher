@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img" aria-labelledby="t">
+<title id="t">Obrigado pela visita. Feito com café, pinguim e software livre.</title>
+<defs>
+  <linearGradient id="w" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ec4899"/></linearGradient>
+  <clipPath id="c"><rect width="1000" height="170" rx="28"/></clipPath>
+</defs>
+<style>
+  .sans{font-family:'Inter','Segoe UI','Noto Sans',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+  .w1{animation:wave 14s linear infinite} .w2{animation:wave 9s linear infinite reverse}
+  @keyframes wave{to{transform:translateX(-500px)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#c)">
+  <rect width="1000" height="170" fill="#070b18"/>
+  <path class="w1" fill="url(#w)" opacity=".28" d="M0 120 Q125 80 250 120 T500 120 T750 120 T1000 120 T1250 120 T1500 120 V170 H0Z"/>
+  <path class="w2" fill="url(#w)" opacity=".5" d="M0 140 Q125 115 250 140 T500 140 T750 140 T1000 140 T1250 140 T1500 140 V170 H0Z"/>
+</g>
+<rect x=".5" y=".5" width="999" height="169" rx="28" fill="none" stroke="#c7d2fe" stroke-opacity=".12"/>
+<text x="500" y="62" text-anchor="middle" class="sans" font-size="26" font-weight="800" fill="#eef2ff">Obrigado pela visita</text>
+<text x="500" y="92" text-anchor="middle" class="sans" font-size="15" fill="#a3aed0">feito com café, pinguim e muito carinho pelo software livre</text>
+</svg>

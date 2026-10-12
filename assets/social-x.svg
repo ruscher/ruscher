@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 112" width="104" height="112" role="img" aria-labelledby="t">
+<title id="t">X</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a2f36"/><stop offset="1" stop-color="#000000"/></linearGradient>
+<filter id="s" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="8" stdDeviation="7" flood-color="#000000" flood-opacity=".45"/></filter></defs>
+<style>
+  .sans{font-family:'Inter','Segoe UI','Noto Sans',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+  .f{animation:float 4.8s ease-in-out 1.75s infinite}
+  @keyframes float{50%{transform:translateY(-5px)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g class="f">
+  <rect x="20" y="10" width="64" height="64" rx="19" fill="url(#g)" filter="url(#s)"/>
+  <rect x="20.5" y="10.5" width="63" height="63" rx="18.5" fill="none" stroke="#fff" stroke-opacity=".18"/>
+  <path transform="translate(38 28) scale(1.1667)" fill="#ffffff" d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z"/>
+</g>
+<text x="52" y="102" text-anchor="middle" class="sans" font-size="13" font-weight="600" fill="#8b95b5">X</text>
+</svg>
